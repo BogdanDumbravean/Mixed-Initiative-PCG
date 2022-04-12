@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66f362ae2f1a50c4496caa544781dfcf, type: 3}
+  m_Name: ProduceStand3_NearOrOn_Road
+  m_EditorClassIdentifier: 
+  terrain: {fileID: 2800000, guid: dce4092215b497a4faad7c7170c4c3fa, type: 3}
+  suggestion: {fileID: 523644872947099803, guid: 118bd9c7ae8d8014294e54aba5ef291a, type: 3}
+  minDist: 0
+  maxDist: 20
+  weight: 5

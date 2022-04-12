@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aa15f4038e41fe42a7326d35395ebb1, type: 3}
+  m_Name: House_Near_Church
+  m_EditorClassIdentifier: 
+  existing:
+  - {fileID: 1134513023205410, guid: 7ba3a37281843fb4ba31c286fb4d92be, type: 3}
+  - {fileID: 3332184353463493765, guid: 4daf53e41e451fa40b5d6ea20f1b3115, type: 3}
+  suggestion:
+  - {fileID: 6611407531028321825, guid: e4e3476b5a3e23a479a803b108d04c9c, type: 3}
+  - {fileID: 6841383266756804668, guid: 32e5c407a77f7744c866fb16abd37898, type: 3}
+  - {fileID: 6610979789128588785, guid: eb933047cdaf8ea469c5a97a310bf439, type: 3}
+  - {fileID: 2614209165096939844, guid: 97e22ca021c62f44e96339b9b58a760e, type: 3}
+  minDist: 0
+  maxDist: 40
+  weight: 5

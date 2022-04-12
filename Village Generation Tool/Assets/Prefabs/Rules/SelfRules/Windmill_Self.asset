@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aa15f4038e41fe42a7326d35395ebb1, type: 3}
+  m_Name: Windmill_Self
+  m_EditorClassIdentifier: 
+  existing:
+  - {fileID: 1248118887984246, guid: 0292f75acfaf18f4bb9f2d782d5a0f2f, type: 3}
+  - {fileID: 2797832200750727947, guid: 7ae384f46196fab40bbe6b1084205989, type: 3}
+  suggestion:
+  - {fileID: 1248118887984246, guid: 0292f75acfaf18f4bb9f2d782d5a0f2f, type: 3}
+  - {fileID: 2797832200750727947, guid: 7ae384f46196fab40bbe6b1084205989, type: 3}
+  minDist: 5
+  maxDist: 40
+  weight: -2

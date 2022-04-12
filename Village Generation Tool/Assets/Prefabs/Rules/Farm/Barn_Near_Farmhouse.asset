@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aa15f4038e41fe42a7326d35395ebb1, type: 3}
+  m_Name: Barn_Near_Farmhouse
+  m_EditorClassIdentifier: 
+  existing:
+  - {fileID: 1572243783172642, guid: a5df77e80dd447641bc0b1f9d7e720e0, type: 3}
+  - {fileID: 1144098775505912, guid: fc8ebb2e49870e8458c4fc69b13692e5, type: 3}
+  suggestion:
+  - {fileID: 1427016662113696, guid: e42d3d56ed7483845a881d94edc1da94, type: 3}
+  - {fileID: 1396899642666884, guid: 0c48addc34753564bb687a150e3481d0, type: 3}
+  - {fileID: 1042997447125158, guid: f245ecf650798cf49818b26f637caad3, type: 3}
+  minDist: 5
+  maxDist: 20
+  weight: 7

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aa15f4038e41fe42a7326d35395ebb1, type: 3}
+  m_Name: ProduceStand_Self
+  m_EditorClassIdentifier: 
+  existing:
+  - {fileID: 1504926191794242, guid: 50683fd2d562a6843959cf8142cb2248, type: 3}
+  - {fileID: 3700623791483049681, guid: eae634221bcf18643bd1d0f69a280bf4, type: 3}
+  - {fileID: 523644872947099803, guid: 118bd9c7ae8d8014294e54aba5ef291a, type: 3}
+  suggestion:
+  - {fileID: 1504926191794242, guid: 50683fd2d562a6843959cf8142cb2248, type: 3}
+  - {fileID: 3700623791483049681, guid: eae634221bcf18643bd1d0f69a280bf4, type: 3}
+  - {fileID: 523644872947099803, guid: 118bd9c7ae8d8014294e54aba5ef291a, type: 3}
+  minDist: 2
+  maxDist: 20
+  weight: 2
